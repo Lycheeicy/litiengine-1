@@ -1,1 +1,3 @@
+//rootProject.buildFileName = '/gradle-errorprone-plugin-master/build.gradle.kts'
 include "utiliti"
+
